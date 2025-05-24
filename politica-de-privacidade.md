@@ -4,8 +4,12 @@ Esta Política de Privacidade explica como o aplicativo Calc4Me lida com as suas
 ### 1. Quais Dados Coletamos?
 O Calc4Me coleta os seguintes dados diretamente do seu dispositivo:
 
-Modelo do dispositivo: Por exemplo, Samsung Galaxy S23, iPhone 15.
-Identificador do dispositivo: Um código único gerado para o seu aparelho.
+- Modelo do dispositivo: Por exemplo, Samsung Galaxy S23, iPhone 15.
+- Identificador do dispositivo: Um código único gerado para o seu aparelho.
+- Marca do dispositivo: A marca da fabricante do aparelho.
+- Sistema operacional: Por exemplo, Android ou IOS.
+- Versão do sistema operacional: Sistema operacional do aparalho.
+  
 Propósito da Coleta: Coletamos esses dados exclusivamente para gerar um token de autenticação. Esse token é essencial para que seu dispositivo possa se comunicar de forma segura e autorizada com nossos servidores, permitindo o uso das funcionalidades do aplicativo. Não coletamos nomes, e-mails, endereços, números de telefone ou qualquer outra informação pessoal identificável.
 
 ### 2. Como Usamos Seus Dados?
